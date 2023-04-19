@@ -3,12 +3,12 @@
 * Pontuo que está foi a maneira que utilizei para passar porém há caminhos mais eficientes, ganhando tempo, e praticando mais, meu foco no caso foi mais referente a fixação dos conteúdos e treinamento e preparação para os simulados
 ---
 ## Fontes utilizadas:
-
+  * Trilha MS: https://learn.microsoft.com/pt-br/certifications/exams/az-104/
+  * Curso TFTEC: https://www.tftec.com.br/
 ----
 ## **Conteúdo utilizado durante os estudos para a certificação do Google ACE**
 * Cursos Recomendados 
   - [TFTEC - AZ-104 - Azure Administrator](https://www.tftecprime.com.br/ead/course/az-104/) 
-  - [MS Learning Trilha - AZ-104 ](https://learn.microsoft.com/pt-br/certifications/exams/az-104/)
   ---
 * Vídeos explicativos (Bom para resumos e revisão)
   - [Revisão da AZ-104 - Última LIVE! - Raphael Andrade](https://www.youtube.com/watch?v=sOus3ogKRDU)
