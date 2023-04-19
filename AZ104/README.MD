@@ -1,4 +1,4 @@
-# GCP - ASSOCIATE CLOUD ENGINEER 
+# AZ104 - Administradores do Microsoft Azure
 * Procuro pontuar a maneira que utilizei para passar na prova da certificação AZ104, elencando as principais fontes utilizadas, conteúdos e simulados
 * Pontuo que está foi a maneira que utilizei para passar porém há caminhos mais eficientes, ganhando tempo, e praticando mais, meu foco no caso foi mais referente a fixação dos conteúdos e treinamento e preparação para os simulados
 ---
