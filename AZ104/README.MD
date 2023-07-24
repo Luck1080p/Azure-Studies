@@ -6,7 +6,7 @@
   * Trilha MS: https://learn.microsoft.com/pt-br/certifications/exams/az-104/
   * Curso TFTEC: https://www.tftec.com.br/
 ----
-## **Conteúdo utilizado durante os estudos para a certificação do Google ACE**
+## **Conteúdo utilizado durante os estudos**
 * Cursos Recomendados 
   - [TFTEC - AZ-104 - Azure Administrator](https://www.tftecprime.com.br/ead/course/az-104/) 
   ---
